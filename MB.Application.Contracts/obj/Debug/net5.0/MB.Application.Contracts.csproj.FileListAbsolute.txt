@@ -1,0 +1,11 @@
+E:\practice\asp.net core\atriya\f8 Master-Blogger-Article-Category-Implementation\MasterBlogger\MB.Application.Contracts\bin\Debug\net5.0\MB.Application.Contracts.deps.json
+E:\practice\asp.net core\atriya\f8 Master-Blogger-Article-Category-Implementation\MasterBlogger\MB.Application.Contracts\bin\Debug\net5.0\MB.Application.Contracts.dll
+E:\practice\asp.net core\atriya\f8 Master-Blogger-Article-Category-Implementation\MasterBlogger\MB.Application.Contracts\bin\Debug\net5.0\ref\MB.Application.Contracts.dll
+E:\practice\asp.net core\atriya\f8 Master-Blogger-Article-Category-Implementation\MasterBlogger\MB.Application.Contracts\bin\Debug\net5.0\MB.Application.Contracts.pdb
+E:\practice\asp.net core\atriya\f8 Master-Blogger-Article-Category-Implementation\MasterBlogger\MB.Application.Contracts\obj\Debug\net5.0\MB.Application.Contracts.GeneratedMSBuildEditorConfig.editorconfig
+E:\practice\asp.net core\atriya\f8 Master-Blogger-Article-Category-Implementation\MasterBlogger\MB.Application.Contracts\obj\Debug\net5.0\MB.Application.Contracts.AssemblyInfoInputs.cache
+E:\practice\asp.net core\atriya\f8 Master-Blogger-Article-Category-Implementation\MasterBlogger\MB.Application.Contracts\obj\Debug\net5.0\MB.Application.Contracts.AssemblyInfo.cs
+E:\practice\asp.net core\atriya\f8 Master-Blogger-Article-Category-Implementation\MasterBlogger\MB.Application.Contracts\obj\Debug\net5.0\MB.Application.Contracts.csproj.CoreCompileInputs.cache
+E:\practice\asp.net core\atriya\f8 Master-Blogger-Article-Category-Implementation\MasterBlogger\MB.Application.Contracts\obj\Debug\net5.0\MB.Application.Contracts.dll
+E:\practice\asp.net core\atriya\f8 Master-Blogger-Article-Category-Implementation\MasterBlogger\MB.Application.Contracts\obj\Debug\net5.0\ref\MB.Application.Contracts.dll
+E:\practice\asp.net core\atriya\f8 Master-Blogger-Article-Category-Implementation\MasterBlogger\MB.Application.Contracts\obj\Debug\net5.0\MB.Application.Contracts.pdb

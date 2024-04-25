@@ -1,0 +1,17 @@
+E:\practice\asp.net core\atriya\f8 Master-Blogger-Article-Category-Implementation\MasterBlogger\MB.Domain\bin\Debug\net5.0\MB.Domain.deps.json
+E:\practice\asp.net core\atriya\f8 Master-Blogger-Article-Category-Implementation\MasterBlogger\MB.Domain\bin\Debug\net5.0\MB.Domain.dll
+E:\practice\asp.net core\atriya\f8 Master-Blogger-Article-Category-Implementation\MasterBlogger\MB.Domain\bin\Debug\net5.0\ref\MB.Domain.dll
+E:\practice\asp.net core\atriya\f8 Master-Blogger-Article-Category-Implementation\MasterBlogger\MB.Domain\bin\Debug\net5.0\MB.Domain.pdb
+E:\practice\asp.net core\atriya\f8 Master-Blogger-Article-Category-Implementation\MasterBlogger\MB.Domain\bin\Debug\net5.0\01_Framework.dll
+E:\practice\asp.net core\atriya\f8 Master-Blogger-Article-Category-Implementation\MasterBlogger\MB.Domain\bin\Debug\net5.0\MB.Application.Contracts.dll
+E:\practice\asp.net core\atriya\f8 Master-Blogger-Article-Category-Implementation\MasterBlogger\MB.Domain\bin\Debug\net5.0\01_Framework.pdb
+E:\practice\asp.net core\atriya\f8 Master-Blogger-Article-Category-Implementation\MasterBlogger\MB.Domain\bin\Debug\net5.0\MB.Application.Contracts.pdb
+E:\practice\asp.net core\atriya\f8 Master-Blogger-Article-Category-Implementation\MasterBlogger\MB.Domain\obj\Debug\net5.0\MB.Domain.csproj.AssemblyReference.cache
+E:\practice\asp.net core\atriya\f8 Master-Blogger-Article-Category-Implementation\MasterBlogger\MB.Domain\obj\Debug\net5.0\MB.Domain.GeneratedMSBuildEditorConfig.editorconfig
+E:\practice\asp.net core\atriya\f8 Master-Blogger-Article-Category-Implementation\MasterBlogger\MB.Domain\obj\Debug\net5.0\MB.Domain.AssemblyInfoInputs.cache
+E:\practice\asp.net core\atriya\f8 Master-Blogger-Article-Category-Implementation\MasterBlogger\MB.Domain\obj\Debug\net5.0\MB.Domain.AssemblyInfo.cs
+E:\practice\asp.net core\atriya\f8 Master-Blogger-Article-Category-Implementation\MasterBlogger\MB.Domain\obj\Debug\net5.0\MB.Domain.csproj.CoreCompileInputs.cache
+E:\practice\asp.net core\atriya\f8 Master-Blogger-Article-Category-Implementation\MasterBlogger\MB.Domain\obj\Debug\net5.0\MB.Domain.csproj.CopyComplete
+E:\practice\asp.net core\atriya\f8 Master-Blogger-Article-Category-Implementation\MasterBlogger\MB.Domain\obj\Debug\net5.0\MB.Domain.dll
+E:\practice\asp.net core\atriya\f8 Master-Blogger-Article-Category-Implementation\MasterBlogger\MB.Domain\obj\Debug\net5.0\ref\MB.Domain.dll
+E:\practice\asp.net core\atriya\f8 Master-Blogger-Article-Category-Implementation\MasterBlogger\MB.Domain\obj\Debug\net5.0\MB.Domain.pdb
